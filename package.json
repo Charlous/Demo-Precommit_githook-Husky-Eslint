@@ -1,0 +1,11 @@
+{
+  "name": "demo-precommit_githook-husky-eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Welazone"
+  },
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
