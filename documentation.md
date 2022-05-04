@@ -12,15 +12,14 @@ Husky: https://typicode.github.io/husky/#/
 
 **tutoriel:**
 
-mettre en place un projets avec typescript:
+setup husky:
 
 - https://gist.github.com/avermeulen/72598daf29171088689793fc145b999c
 
 
-example de tests unitaires:
+elint:
 
-- https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha
-- https://journal.artfuldev.com/write-tests-for-typescript-projects-with-mocha-and-chai-in-typescript-86e053bdb2b6
+- https://www.youtube.com/watch?v=3CHRRSSLeJg
 
 ## <ins>Commande pour lancer les scripts
 
